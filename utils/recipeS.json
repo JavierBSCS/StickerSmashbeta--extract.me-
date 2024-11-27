@@ -1,0 +1,25 @@
+{
+    "other": {
+        "cook": "45 minutes",
+        "prep": "15 minutes",
+        "level": "easy",
+        "total": "1 hour",
+        "yield": "6 servings"
+    },
+    "nutritions": ["Calories: 200 Fat: 10g Carbs: 25g Protein: 3g"],
+    "ingredients": [
+        "2 pounds Yukon Gold potatoes, peeled and cubed",
+        "4 cloves garlic, minced",
+        "2 tablespoons olive oil",
+        "1 tablespoon chopped fresh rosemary",
+        "1 tablespoon chopped fresh thyme",
+        "1 teaspoon salt",
+        "½ teaspoon black pepper"
+    ],
+    "directions": [
+        "Preheat oven to 400°F (200°C).",
+        "In a large bowl, combine potatoes, garlic, olive oil, rosemary, thyme, salt, and pepper.",
+        "Spread potatoes in a single layer on a baking sheet.",
+        "Roast for 45 minutes, or until tender and golden brown, stirring halfway through."
+    ]
+}
